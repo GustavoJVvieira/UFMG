@@ -16,3 +16,17 @@
    [Programação e Desenvolvimento de Software I](https://github.com/GustavoJVvieira/UFMG/tree/main/Programacao_Desenvolvimento_Software_I) <br>
   - Linguagem utilizada: C
 #  
+
+### 2️⃣ Segundo Semestre :
+#
+  ###### 📚  Matérias : 
+  - Calculo I
+  - Algebra Linear Computacional
+  - Economia
+  - Matemática Discreta
+  - Programação e Desenvolvimento de Software II
+ #   
+  ###### ⌨️ Laboratórios :
+   [Programação e Desenvolvimento de Software II](https://github.com/GustavoJVvieira/UFMG/tree/main/Programacao_Desenvolvimento_Software_II) <br>
+  - Linguagem utilizada: C++
+#  
